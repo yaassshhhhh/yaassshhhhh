@@ -1,9 +1,7 @@
 <h1 align="center">Hi 😃, I'm Yash Mahajan</h1>
-<h3 align="center">A passinate FullStack/Ai developer from India</h3>
+<h3 align="center">A passinate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaassshhhhh" alt="yaassshhhhh" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5yMmIyOXd2ZGV1ZG02ODlqbHFjMXAwdjZ0NWhnYXpxaGkxNGpmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHvv0Bo3oGq1eTBDd1/giphy.gif">
 
 - 🔭 I’m currently working on **next-gen healthcare platform that enables world wide doctor appointment booking in just few clicks !**
 
@@ -21,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/yash mahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash mahajan" height="30" width="40" /></a>
 <a href="https://instagram.com/yassshhhh______" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yassshhhh______" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yash mahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash mahajan" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Samanvay_41/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash mahajan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
