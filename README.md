@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Innovative Idea**
 
-- 💬 Ask me about **C,C++,DSA,Full Stack & Cloud,etc**
+- 💬 Ask me about **C++,DSA,Full Stack & Cloud,etc**
 
 - 📫 How to reach me **mahajanyash2054@gmail.com**
 
