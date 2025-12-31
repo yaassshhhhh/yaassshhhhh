@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **next-gen healthcare platform that enables world wide doctor appointment booking in just few clicks !**
 
-- 🌱 I’m currently learning **DSA,Full Stack**
+- 🌱 I’m currently learning **DSA,Full Stack.**
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects.**
 
-- 🤝 I’m looking for help with **Innovative Idea**
+- 🤝 I’m looking for help with **Innovative Idea.**
 
-- 💬 Ask me about **C++,DSA,Full Stack & Cloud,etc**
+- 💬 Ask me about **C++,DSA,Full Stack & Cloud,etc.**
 
 - 📫 How to reach me **mahajanyash2054@gmail.com**
 
