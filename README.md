@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects.**
 
-- 🤝 I’m looking for help with **Innovative Idea.**
+- 🤝 I’m looking for help with **Innovative Idea .**
 
 - 💬 Ask me about **C++,DSA,Full Stack & Cloud,etc.**
 
