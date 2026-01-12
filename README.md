@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **next-gen healthcare platform that enables world wide doctor appointment booking in just few clicks !**
 
-- 🌱 I’m currently learning **DSA,Full Stack.**
+- 🌱 I’m currently learning **DSA ,Full Stack.**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects.**
 
