@@ -1,4 +1,4 @@
-<h1 align="center">Hi 😃, I'm Yash Mahajan .</h1>
+<h1 align="center">Hi 😃, I'm Yash Mahajan.</h1>
 <h3 align="center">A passinate Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5yMmIyOXd2ZGV1ZG02ODlqbHFjMXAwdjZ0NWhnYXpxaGkxNGpmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHvv0Bo3oGq1eTBDd1/giphy.gif">
