@@ -1,7 +1,7 @@
 <h1 align="center">Hi 😃, I'm Yash Mahajan.</h1>
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Fullstack+Developer+Internship;Google+Cloud+Skills+Boost;Mern/Pern Stack+%7C+DSA+Learning;Open+Source+Learner"
+    src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Fullstack+Developer+Internship;Google+Cloud+Skills+Boost;Mern/Pern Stack+%7C+DSA+Learning;Open+Source+Learner"
     alt="Typing SVG"
   />
 </p>
