@@ -6,7 +6,7 @@
  
 - 🌱 I’m currently learning ** DSA , Full Stack.**   
 
-- 👯 I’m looking to collaborate on **Full Stack Projects.**  
+- 👯 I’m looking to collaborate on **Full Stack Projects.**   
 
 - 🤝 I’m looking for help with **Innovative Idea .**
  
